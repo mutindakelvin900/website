@@ -1,0 +1,49 @@
+body{
+    background-image: url(../PhotoCollage_20200731_143616958_transcpr\ -\ Shortcut.lnk);}
+h1{background-color: blue;}
+h1{
+    color: rgba(20, 12, 13, 0.89);
+}
+h1{
+    height: 100;
+width: 100px;
+}
+a{
+    position: fixed;
+    right: 0;
+}
+ul{
+    color: beige;
+}
+ul{
+    background-color: crimson;}
+UL{
+    height: 120;
+    width: 130px;
+}
+ol{
+    color: black;
+}
+ol{
+    background-color: darkgreen;
+}
+ol {
+    height: 100;
+    width: 150px;
+  }
+ol{background-color: chartreuse;}
+h2{
+    background-color: black;
+}
+h2{
+    color: red;}
+h2{
+    text-align: center;}
+h2{height: 20;
+width: 850px;
+}
+h2 {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
